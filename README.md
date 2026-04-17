@@ -10,6 +10,6 @@ concrete frame buildings. (UNDER REVIEW)
 
 How to use
 
-To apply the calibrated models in a structural analysis workflow, use the BED-SimDesign framework with the cp03 modelling option.
+To apply the calibrated models in a structural analysis workflow, use the BED-SimDesign framework with the cp02 modelling option.
 
 BED-SimDesign: https://simdesign.builtenvdata.eu
